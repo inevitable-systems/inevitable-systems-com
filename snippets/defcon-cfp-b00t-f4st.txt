@@ -1,0 +1,701 @@
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZv…onseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 1 of 29
+DEF CON 33 Call for Papers
+DEF CON does not sell or share your information with anyone outside of DEF CON staff or the
+Review Board, nor do we enable AI training or ML participation . Our privacy policy is posted
+at: https://defcon.org/html/links/dc-cfp-privacy.html.
+If you have any issues with this form please email your concerns to
+talks(at)defcon(dot)org. Some questions in this application have a minimum character limit. Microsoft
+forms has a maximum character limitation of 4000 in a single answer field. If your answer text exceeds 4000
+characters please email your response and/or any other supporting materials to us with the title of your talk
+submission in the email.
+DEF CON 33 Call For Papers
+DEF CON 33, Aug. 7-10, 2025, LVCC West Hall, Las Vegas Nevada
+Did you know we also have trainings? DEF CON Training, 8-12th, LVCC North & West Hall, Las Vegas
+Nevada https://training.defcon.org/
+What: DEF CON 33 Call For Papers
+When: August 7th- 10th, 2025
+How: Complete this DEF CON 33 Call for Papers Form. Email additional files or supporting
+documents to talks at defcon dot org.
+Deadline: Call for Papers will close on May 01, 2025
+Speaking Formats are: 20 minutes, 45 minutes, 105 minutes (Two slots back to back).
+The theme for DEF CON 33 is ‘Access Everywhere’:
+- Services should be usable no matter who you are.
+- Services should be accessible no matter where you are.
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…onseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 2 of 29
+- Services should not violate user privacy or security.
+Want to play? Hackers have always done well with limited resources, challenging legal frameworks,
+and restricted access to information. If you you are thinking of giving a talk, build a demo or
+organize a workshop here are some ideas:
+- How do we share information in a secure and anonymous fashion?
+- How do we backup or preserve data that may disappear in the future, beyond sending it to
+archive.org?
+- Create tools that help people migrate from large enshitified platforms to distributed Fediverse ones
+- Help make alternative services more robust and secure - Fuzz them, reverse them, hunt for bugs,
+build stronger!
+- Curate libraries of data and share how you design your management tools
+- The laws around data are changing, where do we host our VMs and data for maximum personal
+freedom?
+Yes, I prefer to be anonymous
+No, including my name is fine
+By default the review board will see your name, company you work at, and bio, unless you
+select otherwise. The review board is never given your contact information, email, or phone
+numbers regardless of anonymity.
+You are responsible for stripping out any other personally identifiable information out of your
+supporting files, your outline, or additional responses. The review board will not be held
+responsible for figuring out who you are, if you leave your name(s) in the slide deck you send
+us.
+Submit anonymously?
+*
+1.
+The DEF CON Policy dept wishes to invite those interested to submit policy talks via
+the CFP board. This means your talk will be considered for both main tracks and the
+DEF CON policy track in the Policy Village.
+Are you submitting for the DEF CON Policy Track? Is this a Policy themed talk?
+*
+2.
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…onseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 3 of 29
+Yes, this is a policy talk.
+No, I'm only interested in the main talk tracks.
+DEF CON welcomes policymakers and technology professionals to join Policy@DEF CON and
+participate with our community of knowledgeable experts. We need to work together.
+Over the past 30 years the DEF CON community, has evolved and grown along with the cyber
+domain. We understand that creating a safer digital society requires collaboration between
+security and policy experts. DEF CON provides a space for representatives of all areas of security
+to come together to educate and engage each other.
+Tech policy is being written as we speak and we believe including diverse expert voices will
+improve outcomes across the policy-technology spectrum by bridging the gap between technical
+and policy practitioners. Senior government officials, policy experts, nonprofit and the private
+sector, security researchers, hackers, academics and technologists from around the world all
+come together at Policy @ DEF CON.
+A write up for this years policy CFP and talks FAQ can be found
+here: https://defcon.org/policy/
+Other
+DEF CON 33 CFP - Primary Speaker Data
+Primary Speaker Name
+*
+3.
+Pauk Charlton
+4. Primary Speaker Pseudonym or Handle *
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…onseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 4 of 29
+mysticknight
+Only Name
+Only Handle
+Both Name and Handle
+If selected to speak, which name should be published?
+5. Name Publishing *
+Other
+She/Her
+They/Them
+He/Him
+Primary Speaker's preferred pronouns:
+*
+6.
+Other
+You may optionally provide a Title and Company with which you are affiliated. If you do so,
+please use format "Title at Company" if possible (rather than Company's Title or similar). You
+may also provide just a title, without a company.
+7. Primary Speaker Affiliation
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…onseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 5 of 29
+Results ByIQ LLC
+8. Primary Speaker Email Address: *
+techguru@byiq.org
+In case of communication failure (required). This is needed in case our confirmation emails hit
+your spam, or in rare cases, you made a typo in your email address.
+Backup Email or Contact method
+*
+9.
+paulc@ventere.com
+10. Primary Speaker Phone Number: *
++18082787904
+May be used to promote your talk, if selected. Accepted: LinkedIn, Mastodon (defcon.social and
+others), Bluesky, Discord, TikTok, and personal/company websites.
+11. Primary Speaker’s Social Media / Personal Site Links *
+https://techguru.byiq.org
+https://swiftboot.dev
+https://forticom.co
+https://iot.4a
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…onseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 6 of 29
+This text will be used for the website and printed materials and should be written in the third
+person. Cover any professional or hacker history that is relevant to you and the presentation,
+you may include past jobs, tools that you have written, etc. Let people know who you are and
+why you are qualified to speak on your topic. If you prefer, you may write your bio under a
+pseudonym.
+Please do not consolidate biographies for multiple speakers into a single response.
+(not to exceed 1337 characters)
+This will be published online if your talk is accepted.
+12. Primary Speaker Bio *
+Veteran engineer, architect, and systems breaker. Built foundational tech at
+Apple, Chase, Intuit, and Sun Microsystems. Led cross-platform QuickTime,
+rewrote JavaFX’s multimedia pipeline, rebuilt core financial systems, and
+refactored the guts of CXFS for distributed, concurrent, crash-proof storage.
+Cut early teeth at RPI, white-hatting mainframes and early network stacks:
+exploiting cache bugs, stack overflows, starvation attacks, covert FEP channels —
+and physically walking VAX diskpacks across datacenter floors to outpace security
+policies.
+Creator of the Unicode Truth Engine — a ground-up, verifiable Unicode parsing
+system where input trust is earned, not assumed.
+Now building SwiftBoot and Popcorn™: radically minimal, cryptographicallysigned
+compute substrates for CI/CD, cloud, and zero-trust workloads.
+Specializes in immutable systems, kernel-level integrity, tamper-proof infra, and
+burning down trust assumptions wherever they hide.
+If Yes, what year(s), and which talk(s)?
+13. Has the speaker spoken at a previous DEF CON? *
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…onseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 7 of 29
+no
+Do you or any other speakers participating in this presentation require any ADA or accessibility
+accommodations? If you have any questions, please let us know; we would be happy to
+communicate with you directly.
+14. ADA / Accessibility Accommodations *
+no
+Co-Speakers and Panel Members
+For each additional co-speaker, list all of the previously requested items (name, handle, display
+name preference, pronouns, title and company if applicable, email address, phone number, social
+media / links, previous presentations and ADA accommodations). Please note: special consideration
+applies if your talk will involve more than 3 speakers in total.
+Name, handle, name publishing preference, pronouns, title and company if applicable, email
+address, phone number, social media, previous presentations and ADA accommodations
+15. Speaker 2 Information
+Enter your answer
+This text will be used for the website and printed materials and should be written in the third
+16. Speaker 2 Bio
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…onseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 8 of 29
+person. Cover any professional or hacker history that is relevant to you and the presentation,
+you may include past jobs, tools that you have written, etc. Let people know who you are and
+why you are qualified to speak on your topic. If you prefer, you may write your bio under a
+pseudonym.
+Please do not consolidate biographies for multiple speakers into a single response.
+(not to exceed 1337 characters)
+This will be published online if your talk is accepted.
+Please enter at most 1337 characters
+Name, handle, name publishing preference, pronouns, title and company if applicable, email
+address, phone number, social media, previous presentations and ADA accommodations
+17. Speaker 3 Information
+Enter your answer
+This text will be used for the website and printed materials and should be written in the third
+person. Cover any professional or hacker history that is relevant to you and the presentation,
+you may include past jobs, tools that you have written, etc. Let people know who you are and
+why you are qualified to speak on your topic. If you prefer, you may write your bio under a
+pseudonym.
+Please do not consolidate biographies for multiple speakers into a single response.
+(not to exceed 1337 characters)
+This will be published online if your talk is accepted.
+18. Speaker 3 Bio
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…onseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 9 of 29
+Please enter at most 1337 characters
+Name, handle, name publishing preference, pronouns, title and company if applicable, email
+address, phone number, social media, previous presentations and ADA accommodations
+19. Speaker 4 Information
+Enter your answer
+This text will be used for the website and printed materials and should be written in the third
+person. Cover any professional or hacker history that is relevant to you and the presentation,
+you may include past jobs, tools that you have written, etc. Let people know who you are and
+why you are qualified to speak on your topic. If you prefer, you may write your bio under a
+pseudonym.
+Please do not consolidate biographies for multiple speakers into a single response.
+(not to exceed 1337 characters)
+This will be published online if your talk is accepted.
+20. Speaker 4 Bio
+Please enter at most 1337 characters
+Are there any other panel members or co-speakers for this talk? Please list all information.
+21. More Speakers
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 10 of 29
+Enter your answer
+If there are more than 2 members in your presentation, please list out how you intend to divide
+the presentation so that all presenters are speaking equally and contributing to the talk.
+Example: Primary Speaker 1 gets 15 mins on intro, co-speaker 2 gets 15 minutes on exploit, cospeaker
+3 gets 15 minutes on disclosure.
+22. Speaker Contribution Explanation
+Enter your answer
+Yes
+No
+If your presentation is accepted, do you consent to inviting the primary & all other speakers to
+the official DEF CON Speaker's planning project on Basecamp (project management platform)?
+We will use the email addresses you included on your application (unless stated otherwise). DEF
+CON staff and other speakers will be able to contact you once you accept the invitation.
+Basecamp Permission
+*
+23.
+Other
+If your presentation is accepted, will you require a visa letter of invitation for you or any of your
+co-speakers?:
+24. Visa Requirement *
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…onseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 11 of 29
+Yes
+No
+PRESENTATION INFORMATION
+25. Presentation Title *
+B00t F4st, Tru5t Ru13s: Immutable CI Runners and mTLS Roles for Supply Chain Integrity
+20 Minutes
+45 Minutes
+105 Minutes
+What is the approximate length of the presentation? Please note: We accept few 105 minute
+talks; your submission will need to break-down the time requested within your content outline.
+Duration
+*
+26.
+Is there a demonstration? Yes or No. If yes, please explain the demonstration:
+27. Demonstration *
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 12 of 29
+sure
+I understand I will need to create a demo video for my presentation.
+I will be requesting an exception to this rule, as it's detrimental to the success of my
+talk.
+In order to prevent potential time loss during your presentation due to technical difficulties, we
+require most talks to submit a demo video instead of preforming a live demo. Sometimes a live
+demo is critical to the success of the talk, and exceptions are made.
+28. Live Demos *
+Is there audience participation? Yes or No. If yes, how?
+29. Audience Participation *
+short Q&A
+Yes
+No
+Are you releasing a new tool as part of this presentation? Yes or No
+30. New Tool *
+If you are releasing a new tool, under which license will it be released? ( Please indicate N/A if
+31. Tool License *
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 13 of 29
+you're not releasing a tool)
+MIT
+Full tool suite
+Plugin
+Proof of Concept Exploit
+Update to an existing tool
+This tool was presented at DEF CON Demo Labs previously.
+Is it a full tool suite, a plugin, proof of concept exploit, update to existing tool, or something
+else?
+32. Tool Details *
+Other
+Yes
+No
+Not Applicable
+Is the tool currently public?
+*
+33.
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 14 of 29
+34. What language is the tool written in?
+bash
+Please introduce your tool briefly and explain what it does
+35. Tool Description
+builds CI runners that B00t F4st, Tru5t Ru13s: 1mmutable CI/CD with Signed
+mTLS Roles
+No, the tool is just one component of the talk
+Yes
+Yes, and I will also apply for Demo Labs
+Not Applicable
+Is this talk's primary focus your tool? If Yes, please be advised some presentations make a
+better fit in our Demo Labs. You may want to also apply there for consideration.
+36. Presentation is about Tool *
+Are you releasing a new exploit/vulnerability?
+*
+37.
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 15 of 29
+Yes
+No
+Yes
+No
+Have you submitted or do you plan on submitting this topic to any other conference held prior to
+DEF CON 33?
+38. Prior Submission *
+Yes
+No
+Maybe
+39. Are you submitting this or any other topic to Black Hat USA? *
+Maybe
+No
+Yes
+Are you submitting this or any other topic to BSidesLV or any other "Hacker Summer Camp"
+event?
+40. Other Submissions *
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 16 of 29
+ABSTRACT
+Your abstract will be used for the website and printed materials. Summarize what your
+presentation will cover. Attendees will read this to get an idea of what they should know before
+your presentation, and what they will learn after. Use this to inform attendees about how
+technical your talk is, what tools will be used, what materials to read in advance to get the most
+out of your presentation. This abstract is the primary way people will be drawn to your session,
+but should not give them the entire content of the talk. We request you keep your abstract well
+over 140 characters, but at or under the 1337 maximum.
+(not to exceed 1337 characters)
+This will be published online if your talk is accepted.
+41. Presentation Abstract *
+Today’s CI/CD runners are built on dangerous assumptions: that containers clean themselves, that VMs forget their past, and that IP addresses prove trust. They don’t.
+
+In this talk, we introduce Popcorn™ Runners — radically minimal, cryptographically signed substrates for CI/CD workloads. Every runner boots an immutable signed (kernel and rootfs), binds to a signed mTLS role at power-on, and enforces trust without relying on IPs, mutable infra, or runtime patching.
+
+Immutable by design. Artifact-free. Observability anchored outside the runner via role-bound mTLS.
+
+Live demo: Cold-boot to payload execution under 1 second (plus disk transfer time of CI config), with no lingering attack surface or supply chain drift.
+
+You are what you boot. Your privileges are what you’re signed for.
+REFERENCES
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 17 of 29
+Please provide a simple bibliography and/or works cited. List sources you have used (whether
+referenced or not) in the process of finalizing your presentation. Please remember to credit prior
+works and acknowledge others. References will be posted online with your talk information. We
+want attendees interested in your talk to be able to research what has been helpful for you in
+developing this presentation.
+This will be published online if your talk is accepted.
+42. Publishable References
+	•	NCC Group, Attacks on CI/CD Pipelines, 2022.
+	•	CISA, Lessons from the SolarWinds Attack, 2021.
+	•	OWASP SAMM, CI/CD Pipelines as Critical Attack Surfaces, 2022.
+	•	Black Hat USA, Poisoned Pods: IP and DNS Reuse in Kubernetes, 2020.
+	•	ThoughtWorks, Immutable Infrastructure and Zero-Drift Systems, 2021.
+	•	Cloudflare, Mutual TLS Authentication for Distributed Systems, 2020.
+	•	CNCF, SPIFFE/SPIRE: Secure Identity Framework for Enterprise, 2019.
+	•	Google, BeyondCorp: A New Approach to Enterprise Security, 2014.
+	•	GitLab Docs, GitLab Runner Executor Reference Guide, retrieved 2025.
+	•	GitHub Docs, GitHub Actions Self-Hosted Runner Guide, retrieved 2025.
+	•	Linux Kernel Archives, linux-stable Git Repositories through v6.14.y, retrieved 2025.
+
+If there are references that you would like to make available to the CFP board but would not like
+for them to be published, you may list them here.
+43. Confidential References
+Enter your answer
+DETAILED OUTLINE
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 18 of 29
+This is the most important section on the application. The minimum char count on an
+outline should be no less than 350. The max limitation in Microsoft forms is 4000 if
+your outline exceeds that please email it to talks@defcon.org with the title of your
+talk submission in the email.
+You must provide a detailed outline containing the main points and navigation through your talk
+- show how you intend to begin, where you intend to lead the audience and how you plan to get
+there. Your outline should be in simple text. Please do not submit slides, Docs, or PDFs as an
+outline.
+If you are submitting a panel, it’s encouraged to list what each panel member will contribute to
+on the outline, as well as the estimated time budgeted for those bullet points. The review board
+likes submissions that include references to prior works and research you used in developing
+your presentation. The more detailed your outline then the better we are able to review your
+presentation against other submissions (and the higher chance you have of being accepted).
+Good Outlines are discussed here:
+https://writingprocess.mit.edu/process/step-2-plan-and-organize/creating-detailed-outline
+https://www.defcon.org/html/links/dc-speakerscorner.html#nikita-cfp
+https://www.defcon.org/html/links/dc-speakerscorner.html#leah-cfp-process
+BAD outlines look like these:
+i. intro
+ii.something
+iii. something else
+iv. conclusion
+v. q&a
+Please indicate below if you intend to email us your outline, we will not submit your
+application to the review board until your outline is received.
+44. Detailed Outline: *
+Introduction (~2 min)
+• Frame the problem: Modern CI/CD infrastructure is built on
+dangerous trust assumptions: container resets, VM reboots, DHCP-assigned IPs.
+• Quick examples of real-world CI/CD compromises due to drift, artifact
+residue, and IP spoofing attacks (e.g., Tesla Autopilot GitHub repo hack 2020;
+SolarWinds CI compromise references).
+• Introduce Popcorn™ Runners: a new primitive based on immutable,
+signed boot layers and role-bound mTLS identity.
+References:
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 19 of 29
+• “Attacks on CI/CD Pipelines” — NCC Group, 2022
+• “Lessons from the SolarWinds Attack” — CISA Report, 2021
+• “CI/CD Pipelines as Critical Attack Surfaces” — OWASP SAMM, 2022
+⸻
+Trust Assumptions in Traditional CI/CD (~5 min)
+• Explain container/VM reuse and why resets are insufficient (residue,
+hidden state).
+• Highlight DHCP/IP reuse attacks in Kubernetes and cloud CI (e.g.,
+pod churn leakage).
+• Explain why metadata services, ephemeral disk wipes, and dynamic
+network leases are not cryptographic trust anchors.
+Reference:
+• “Poisoned Pods: IP and DNS Reuse in Kubernetes” — Black Hat USA
+2020
+⸻
+Immutable Boot: Signed Kernel + RootFS (~7 min)
+• Define what “immutable signed (kernel and rootfs)” means.
+• Walk through how Popcorn images are built and sealed before
+deployment (no mutable boot paths, no mutable runtime injection points).
+• How every Popcorn runner starts clean: sealed boot, verified
+signature, runtime read-only lock.
+• Comparison against ephemeral container images (OCI), ephemeral
+VMs (cloud-init), and why they still allow mutation at runtime.
+Reference:
+• “Immutable Infrastructure and Zero-Drift Systems” — ThoughtWorks
+Tech Radar, 2021
+⸻
+Identity: mTLS Roles at Boot (~7 min)
+• Explain role-based mTLS: identity is baked at boot, cryptographically
+verified before the runner speaks to any external system.
+• How this eliminates IP-based trust, metadata identity spoofing, and
+lateral movement attacks.
+• Live flowchart: Runner boots → signs → presents mTLS cert →
+external systems audit and log role-bound connection.
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 20 of 29
+References:
+• “Mutual TLS Authentication for Distributed Systems” — Cloudflare
+Blog, 2020
+• “Spiffe/SPIRE: Secure Identity Framework for Enterprise” — CNCF
+Project, 2019
+⸻
+Observability Outside the Runner (~5 min)
+• Discuss how mTLS certificates allow external systems to
+independently verify what identity performed which action.
+• Runner compromise cannot falsify audit logs.
+• Bonus: Potential for Merkle tree hashing of audit streams for tamperproof
+logging.
+Reference:
+• “BeyondCorp: A New Approach to Enterprise Security” — Google
+Security Whitepaper, 2014
+⸻
+Live Demo (~8 min)
+• Show cold boot of a Popcorn Runner:
+• Boot an immutable signed kernel+rootfs
+• Present mTLS role cert immediately at boot
+• Complete CI job handshake in under 1 second (plus disk transfer time
+of CI config).
+Hacker History and Why DEF CON?
+Note: This is your opportunity to directly address the DEF CON review board as to why
+you think your talk is good for our hacker con. More and more we are seeing submissions
+that are well suited for cyber security industry conferences, developer conferences, or local meetups
+but may not align with the board's view of the DEF CON spirit. The bumper sticker "Keep Infosec
+out of Hacking" comes to mind.
+We get many great submissions but they aren't always aimed at the 30,000 hackers at our con. This
+frequently results in the review board saying "Unfortunately, this is not a DEF CON talk". DEF CON
+is a hacking con, so how does your content fit in to that culture, spirit, and subject matter?
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 21 of 29
+There is a minimum character count to encourage you to consider these questions
+seriously. If you absolutely cannot meet that number and it's discouraging you from submitting
+your application, don't fret; just enter the letter X until you meet the minimum.
+Why DEF CON? Why is this a hacker talk? Why does it belong here?
+45. Why DEF CON? *
+This is a hacker talk because it attacks core trust assumptions built into modern
+CI/CD infrastructure — assumptions that leave pipelines vulnerable to artifact
+drift, supply chain injection, IP reuse, and impersonation attacks. Popcorn
+Runners are designed to eliminate these blind spots with immutable boot and
+mTLS role identity, returning control to the operator. DEF CON is about tearing
+down fragile systems and rebuilding stronger ones — and this talk lives at that
+What do you bring to the table, how will you or your presentation(s) contribute a new
+perspective to the content at DEF CON? (Please answer for each speaker and/or panel
+members.)
+46. Speaker Perspectives *
+I’ve spent decades building, breaking, and hardening critical systems at every
+layer — from mainframes to mobile, from storage fabric to financial transaction
+security. My experience rewriting filesystem guts (CXFS), building verifiable
+Unicode parsers, and deploying immutable kernels gives me a deeply pragmatic
+view of how fragile real-world trust models are. This talk brings practical,
+deployable zero-trust methods to one of the most critical attack surfaces hackers
+47. What else about you or this talk do you want us to know?
+I’m bringing a working proof-of-concept and a real-world demo. Not a pitch, not
+a theory, but a system that boots, signs, runs, and tears itself down without drift
+or leftover attack surface. My goal is not just to impress but to arm the
+community with ideas and primitives they can steal, extend, and weaponize for
+their own infrastructure.
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 22 of 29
+SCHEDULING AND EQUIPMENT REQUIREMENTS
+DEF CON 33 will be held August 7th- 10th, 2025, you may be asked to present Thursday - Sunday,
+please plan accordingly as requests to speak on specific days may not be possible.
+No
+Yes
+Maybe
+Is there a specific day or time by which you must present?
+No = I have no specific availability requirements
+Yes = I have specific availability requirements
+Maybe = I have submitted or plan to submit in response to a call for content from another DEF
+CON department or creator, and that might cause a conflict. My schedule may require
+coordination.
+48. Specific Availability *
+Will you require more than 1 projector feed? Yes or No. If yes, please specify how many and
+why.
+49. Projector Feeds
+no
+50. Special Equipment
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 23 of 29
+Are there any other special equipment needs that you will require to successfully present your
+talk?
+Please note: DEF CON requires presenters to deliver their slides and content via a DEF CON
+provided laptop on stage. Exceptions can be made with justification.
+Request permission to use personal laptop for live demo. Demo involves signed
+kernel boot processes, immutable filesystems, and mTLS identity presentation
+not reproducible via DEFCON-provided Windows laptops. If personal hardware is
+not permitted, I will revert to a pre-recorded video backup and talk over the
+demo footage.
+Supporting Files
+Additional supporting materials such as code, white papers, proof of concept, etc., can be sent
+along with your submission. You can email them to talks@defcon.org when you're ready.
+Additional files that may help in the selection process should be included. We are not asking for a
+complete presentation for this initial submission. Full slides will only be required if your presentation
+is accepted.
+It is the submitter's responsibility to remove any unwanted PII from any attached slides, white
+papers, or supporting materials, and to appropriately sanitize any metadata in the provided content.
+Please include the title of your presentation as the subject line of your email. You should
+receive email confirmation within 3 business days. If you do not, please reach out again to inquire.
+SUBMISSION AGREEMENTS
+Please read and accept the terms in each of the following sections. Failure to do so will render your
+submission incomplete. Please read these carefully as some of the terms have changed.
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 24 of 29
+Grant of Copyright Use & Terms of Speaking Requirements
+I warrant that the above work has not been previously published elsewhere, or if it has, that I have
+obtained permission for its publication by DEF CON Communications, Inc. and that I will promptly
+supply DEF CON Communications, Inc. with wording for crediting the original publication and
+copyright owner.
+If I am selected for presentation, I hereby give DEF CON Communications, Inc. permission to
+duplicate, record and redistribute this presentation, which includes, but is not limited to, the
+conference proceedings, conference CD, video, audio, and hand-outs to the conference attendees
+for educational, on-line, and all other purposes.
+1) I will submit a completed presentation, a copy of the tool(s) and/or code(s), and a reference to
+all of the tool(s), law(s), Web sites and/or publications referenced to at the end of my talk and as
+described in this CFP submission for publication on the DEF CON media server by 12:00 noon Pacific
+time, July 15, 2025. The DEF CON media server will release content on the first day of the
+conference. IF you are presenting the same talk with Black Hat you will need to get approval from
+them to have your content hosted and released on Thursday.
+2) I will submit a final Abstract and Biography for the DEF CON website and Printed Conference
+Materials by 12:00 noon Pacific time, June 15, 2025.
+3) I understand if I fail to submit a completed PDF presentation by July 15, 2025, I may be
+replaced by an alternate presentation or may forfeit my honorarium. This decision will be made by
+DEF CON and I will be informed in writing of my status.
+4) I will include a detailed bibliography as either a separate document or included within the
+presentation of all resources cited and/or used in my presentation.
+5) I will complete my presentation within the time allocated to me - not running over, or
+excessively under the time allocation.
+6) I understand that DEF CON will provide 1 projector feed, 2 screens, microphones, wired and/or
+wireless Internet and 1 presentation laptop. I understand that I am responsible for providing all
+other necessary equipment, to complete my presentation. (The standard setup will require you to
+present on DEF CON provided laptops, more information will be provided upon acceptance.)
+7) If applicable, after the completion of the conference I will submit any updated, revised or
+additional presentation(s) or materials that were used in my presentation but not included on the
+conference media server or conference proceedings by August 18th, 2025.
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 25 of 29
+Yes
+No
+As detailed above, I have read and agree to the Grant of Copyright Use
+& Terms of Speaking Requirements. *
+51.
+Terms of Speaking Remuneration
+Regardless of honorarium choice, each accepted speaker will receive a free badge for admission
+into DEF CON valid from Thursday August 7th to Sunday August 10th. In rare cases of large panels,
+free entry badges may be limited in number.
+1) DEF CON will provide 4 nights hotel per accepted presentation for the primary speaker only. The
+hotel will be at the DEF CON Venue properties, and of DEF CON’s choosing. I understand I will need
+to confirm my hotel nights and submit my preferences by the date listed in my official acceptance
+letter. I understand that I will be responsible for my own travel expenses, unless prior approval is
+made with special exception. Upon your talk acceptance you will get a separate email regarding
+your lodging arrangements.
+2) I understand that DEF CON will issue one $300 payment per presentation to the primary speaker
+only. Payment will be made in the form of company check. I may choose to waive my $300
+honorarium in exchange for 3 DEF CON Human badges, received at the start of the conference. I
+may also choose to donate my honorarium to charity. If you are the primary speaker on two or
+more talks, you are entitled to honorarium for each talk, but you will still receive only one
+"speaker's badge". Giving two talks? 1 speaker's badge, and you can select 6 human badges or
+$600 honorarium, or 3 badges and $300 honorarium.
+3) I understand that I may receive payment on-site at the conference. If selecting the $300
+payment as my honorarium, I must provide a valid name and postal mail address so that the
+payment may be mailed. In some rare cases, I may be required to complete a W8 (Non-U.S.
+Citizen) or W9 (U.S. Citizen) before payment is issued.
+4) I understand that I will be paid within 30 days from the end of the conference, after I have
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 26 of 29
+completed my presentation. I understand that should my talk be determined to be unsuitable (e.g.
+a vendor or sales pitch, a talk on the keeping of goats, etc.) after I have presented, that I will not
+receive an honorarium.
+Yes
+No
+52. As detailed above, I have read and agree to the Terms of Remuneration *
+Community & Code of Conduct Commitment
+DEF CON is a community event and your applications approval means we are endorsing you as the
+type of people we want to include, promote, and whom belong within the DEF CON community.
+When someone at DEF CON behaves poorly they should be held accountable, otherwise we both
+look bad.
+When DEF CON pays for fines or property damages it harms the community by reducing what DEF
+CON can contribute in support of new ideas, events and activities. I understand that DEF CON
+reserves the right to invoice an itemized bill, when costs occur due (but not limited to) the
+following: Damage or destruction of property. Fines and fees billed to DEF CON for any noncompliance
+to the requests from the venue staff or contracted rules. Fees for bringing in outside
+food and drink, damages to the space or property you were assigned, etc.
+I also understand that my presentation must not violate the required accountability
+within the DEF CON community as outlined in our Code of Conduct.
+https://defcon.org/html/links/dc-code-of-conduct.html
+Yes
+No
+As detailed above, I have read and agree to the Community & Code of Conduct
+Commitment. *
+53.
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 27 of 29
+DEF CON Press Support
+DEF CON's official Press Liaison may want to contact you because a reporter or agency is interested
+in interviewing you about your talk. You would only be contacted by a DEF CON press liaison, in
+order to arrange interviews with the media, your contact information will not be given to third
+parties without your consent. Sometimes, we may even recommend an interview due to the
+excitement of your talk, to promote you.
+Our policies, including our privacy policy are located here: https://www.defcon.org/html/links/dcpolicy.
+html
+Yes, I consent to the DEF CON press team contacting me.
+No, I don't want to be contacted by DEF CON's press staff for any reason.
+54. Press Support Response
+What and Where to post online, Spoiler Alert! Don't ruin your
+chances...
+Important things to consider after your talk is submitted
+Some things to note about sharing your content before and after acceptance: DEF CON has in the
+past, and will in the future, pull submissions after they’ve been accepted. We hate doing this, and
+I’m sure you would hate this as well. Things that could cause us to rescind your acceptance are:
+1. Finding out there was an important omission in your submission. For example, if you
+already gave a version of your talk that is significantly the same, but failed to tell us about it.
+2. Submitting to a talk after you submit to DEF CON and then give the talk before DEF
+CON. While you might have been honest when you said that you didn't submit to other conferences
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 28 of 29
+when you filled out the CFP, the impact on the conference is the same - the material isn't new.
+Sometimes we do accept talks that have been given in some form or another, but generally we
+want original material.
+3. Releasing the key content of your talk in other mediums before DEF CON; blog posts,
+interviews, etc. The end result is that people will potentially know that they already have the
+information you are going to give in your speech - so why would they go to it? So, please don’t spill
+the beans…let the cat out of the bag…sink ships…ruin the surprise, etc. If you have any questions
+about those three issues, please ask.
+DEF CON online:
+When you toot/skeet/etc, post on facebook, or otherwise use social media regarding DEF CON 33,
+please tag us or use the hashtag #DEFCON33. Tagging us in our social media can increase the
+chances we will see it, and give your toot/skeet/post a better chance of us sharing it. Not to
+mention, con attendees follow the #DEFCON and #DEFCON33 tags as well. Please join us on
+Mastodon (https://defcon.social).
+Our spaces online:
+https://forum.defcon.org/
+https://defcon.org/defconrss.xml
+https://discord.com/invite/defcon
+https://defcon.social/about
+https://bsky.app/profile/defcon.bsky.social
+https://www.facebook.com/defcon
+https://www.youtube.com/user/DEFCONConference
+https://www.instagram.com/wearedefcon/
+https://www.reddit.com/r/Defcon/
+https://defcon.org/html/links/dc-canary.html
+RECENT NEWS On the Main Site: https://www.defcon.org/html/links/dc-news.html
+Hacker Tracker contains the speaker schedules, as well as villages, parties, events, contests,
+maps, and other important con information.
+https://hackertracker.app
+This content is created by the owner of the form. The data you submit will be sent to the form owner. Microsoft is
+DEF CON 33 Call for Papers 4/29/25, 04:58
+https://forms.office.com/Pages/ResponseDetailPage.aspx?id=Y3ofZ…nseToken=7X0rAgyp6nFuV9ezrD1GCKyd9Hnb8hjjjvTWnROBRwk&origin=rc Page 29 of 29
+not responsible for the privacy or security practices of its customers, including those of this form owner. Never give
+out your password.
+Microsoft Forms | AI-Powered surveys, quizzes and polls Create my own form
+Privacy and cookies | Terms of use
